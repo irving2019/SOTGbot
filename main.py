@@ -6,7 +6,7 @@ from Guns import *
 from Armors import *
 from Kordon import *
 
-botTimeWeb = telebot.TeleBot('6470715098:AAHFnXHV0Cm-mU1NYYDIaIgQSMUTymkFX5s')
+botTimeWeb = telebot.TeleBot('Ваш токен от BotFather')
 
 @botTimeWeb.message_handler(commands=['start'])
 def startbot(message):
