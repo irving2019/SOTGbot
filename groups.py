@@ -1,7 +1,7 @@
-from Locations import *
-from Person import *
-from Armors import *
-from Guns import *
+from locations import *
+from person import *
+from armors import *
+from guns import *
 
 
 class Groups:
