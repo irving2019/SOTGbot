@@ -1,10 +1,10 @@
 import telebot
 from telebot import types
-from Groups import *
-from Locations import *
-from Guns import *
-from Armors import *
-from Kordon import *
+from groups import *
+from locations import *
+from guns import *
+from armors import *
+from kordon import *
 
 botTimeWeb = telebot.TeleBot('Ваш токен от BotFather')
 
