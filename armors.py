@@ -1,4 +1,4 @@
-class Armor:
+class Armor: #комит
     def __init__(self, name, fire_protection, kick_protection, lighting_protection, tear_protection,
                  radioactive_defence, acid_protection, boom_protection, bullet_protection,
                  weight, pnv, artefacts_conteiners, carryable_weight, wear):
